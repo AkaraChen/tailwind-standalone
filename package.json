@@ -1,5 +1,5 @@
 {
-    "name": "tailwind-standalone",
+    "name": "@akrc/tailwind-standalone",
     "version": "1.0.0",
     "description": "Using tailwind directly in Node.js",
     "type": "module",
@@ -44,5 +44,8 @@
         "type": "git",
         "url": "https://github.com/akarachen/tailwind-standalone"
     },
-    "homepage": "https://github.com/akarachen/tailwind-standalone#readme"
+    "homepage": "https://github.com/akarachen/tailwind-standalone#readme",
+    "publishConfig": {
+        "access": "public"
+    }
 }
